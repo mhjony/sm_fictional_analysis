@@ -1,5 +1,3 @@
-# sm_fictional_analysis
-
 # installation instructions
 1. A web server with PHP support e.g. mamp, xampp <br />
 2. Start the server <br />
